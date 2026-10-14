@@ -70,7 +70,7 @@ Screenshots for the three columns: `tumbledew-2-play.png`, `tumbledew-3-upside-d
 
 > # Tumbledew Support
 >
-> Questions, problems or ideas? Email **[support@samaratitles.com](mailto:support@samaratitles.com)** and we'll reply within [two business days]. It helps to include your iPhone model and iOS version (Settings > General > About).
+> Questions, problems or ideas? Email **[support@samaratitles.com](mailto:support@samaratitles.com)** and we'll reply within seven days. It helps to include your iPhone model and iOS version (Settings > General > About).
 >
 > ## Playing
 >
@@ -128,7 +128,7 @@ Screenshots for the three columns: `tumbledew-2-play.png`, `tumbledew-3-upside-d
 
 > # Privacy Policy
 >
-> **Effective date:** [DATE YOU PUBLISH IT]
+> **Effective date:** October 14, 2026
 >
 > This policy covers Tumbledew, an iPhone game published by Samara Titles ("we", "us"), and this website. Samara Titles is a trade name of Evan Pelecky.
 >
