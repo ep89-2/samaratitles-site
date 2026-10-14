@@ -130,7 +130,7 @@ Screenshots for the three columns: `tumbledew-2-play.png`, `tumbledew-3-upside-d
 >
 > **Effective date:** [DATE YOU PUBLISH IT]
 >
-> This policy covers Tumbledew, an iPhone game published by Samara Titles ("we", "us"), and this website. [If Samara Titles is a trade name: Samara Titles is a trade name of [YOUR LEGAL NAME OR COMPANY].]
+> This policy covers Tumbledew, an iPhone game published by Samara Titles ("we", "us"), and this website. Samara Titles is a trade name of Evan Pelecky.
 >
 > ## The short version
 >
@@ -197,5 +197,4 @@ Screenshots for the three columns: `tumbledew-2-play.png`, `tumbledew-3-upside-d
 > ## Contact
 >
 > Samara Titles<br>
-> [support@samaratitles.com](mailto:support@samaratitles.com)<br>
-> [MAILING ADDRESS, optional]
+> [support@samaratitles.com](mailto:support@samaratitles.com)
