@@ -105,7 +105,7 @@ Screenshots for the three columns: `tumbledew-2-play.png`, `tumbledew-3-upside-d
 > **Where is my high score kept?**
 > On your iPhone, and in iCloud so that it matches across your devices. If iCloud is turned off for the app, it is kept on this iPhone only.
 >
-> **My score isn't showing on the leaderboard.**
+> **Why isn't my score showing on the leaderboard?**
 > Scores only reach Game Center when you are signed in to Game Center on your iPhone (Settings > Game Center). The weekly leaderboard restarts each week. If you are signed out, the game works exactly the same but doesn't send scores.
 >
 > **How do I see achievements?**
