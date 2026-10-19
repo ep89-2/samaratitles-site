@@ -132,4 +132,6 @@ NOT_FOUND = head("Page not found · Samara Titles", "", "Page not found.") + """
 (HERE / "404.html").write_text(NOT_FOUND)
 (HERE / "CNAME").write_text("samaratitles.com\n")
 (HERE / ".nojekyll").write_text("")
+# AdMob checks this file to verify Tumbledew's ads (publisher ID is public).
+(HERE / "app-ads.txt").write_text("google.com, pub-8882031374906515, DIRECT, f08c47fec0942fa0\n")
 print("built docs/: index, support, privacy, 404")
