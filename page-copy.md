@@ -19,11 +19,10 @@ Facts about the app below come from the Tumbledew project (`Gravity Game/README.
 >
 > Dewey is a small cut-paper alien caught in a downpour. Roll left and right along the grass, flip gravity to run along the clouds instead, and catch the power-ups drifting across the sky.
 >
-> [Button: **Download on the App Store**] → [APP STORE LINK]
+> [Button: **Download on the App Store**] → https://apps.apple.com/us/app/tumbledew/id6822419325
 >
 > Free on iPhone · Optional one-time ad-free upgrade
 
-(Until the App Store link exists, use the button text **Coming soon to the App Store** with no link.)
 
 ### How it plays (Sky section, three columns)
 

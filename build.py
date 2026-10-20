@@ -78,7 +78,7 @@ INDEX = head("Tumbledew for iPhone · Samara Titles", "", seo("1")) + """
       <h1>Tumbledew</h1>
       <p class="tagline">Roll. Flip gravity. Dodge the rain.</p>
       <p>Dewey is a small cut-paper alien caught in a downpour. Roll left and right along the grass, flip gravity to run along the clouds instead, and catch the power-ups drifting across the sky.</p>
-      <span class="button">Coming soon to the App Store</span>
+      <a class="button" href="https://apps.apple.com/us/app/tumbledew/id6822419325">Download on the App Store</a>
       <p class="fine">Free on iPhone · Optional one-time ad-free upgrade</p>
     </div>
     <img class="shot" src="assets/1-menu.jpg" alt="Tumbledew main menu with Dewey on the grass">
